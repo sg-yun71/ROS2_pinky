@@ -1,0 +1,108 @@
+[0.010s] Invoking command in '/home/etri/pinky_bt/build/pinky_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/etri/pinky_bt/build/pinky_gazebo -- -j12 -l12
+[0.051s] Invoked command in '/home/etri/pinky_bt/build/pinky_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/etri/pinky_bt/build/pinky_gazebo -- -j12 -l12
+[0.052s] Invoking command in '/home/etri/pinky_bt/build/pinky_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/etri/pinky_bt/build/pinky_gazebo
+[0.057s] -- Install configuration: ""
+[0.057s] -- Execute custom install script
+[0.058s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/world/office_world.world
+[0.058s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/world/original_office_world.world
+[0.058s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/brown_eye.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/casual_female.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/eyebrow002.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/eyelashes01.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/female_casualsuit01_diffuse.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/female_casualsuit01_normal.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/female_casualsuit02_diffuse.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/female_casualsuit02_normal.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/ponytail01_diffuse.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/shoes05_diffuse.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/tongue01_diffuse.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/materials/textures/young_lightskinned_female_diffuse.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/meshes/casual_female.dae
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/model.config
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/model.sdf
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/original_model.sdf
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/thumbnails/1.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/thumbnails/2.png
+[0.059s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/thumbnails/3.png
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/thumbnails/4.png
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Casual female/thumbnails/5.png
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker0/materials/textures/Marker0.png
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker0/meshes/Marker0.dae
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker0/model-1_4.sdf
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker0/model-1_5.sdf
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker0/model.config
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker0/model.sdf
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker1/materials/textures/Marker1.png
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker1/meshes/Marker1.dae
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker1/model-1_4.sdf
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker1/model-1_5.sdf
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker1/model.config
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker1/model.sdf
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker2/materials/textures/Marker2.png
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker2/meshes/Marker2.dae
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker2/model-1_4.sdf
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker2/model-1_5.sdf
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker2/model.config
+[0.060s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker2/model.sdf
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker3/materials/textures/Marker3.png
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker3/meshes/Marker3.dae
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker3/model-1_4.sdf
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker3/model-1_5.sdf
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker3/model.config
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker3/model.sdf
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker4/materials/textures/Marker4.png
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker4/meshes/Marker4.dae
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker4/model-1_4.sdf
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker4/model-1_5.sdf
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker4/model.config
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Marker4/model.sdf
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/Table_Diffuse.jpg
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/model-1_2.sdf
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/model-1_3.sdf
+[0.061s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/model-1_4.sdf
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/model.config
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/model.sdf
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/original_model.sdf
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/thumbnails/1.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/thumbnails/2.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/thumbnails/3.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/thumbnails/4.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/Table/thumbnails/5.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/foldable_chair/mesh/foldable_chair.dae
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/foldable_chair/mesh/foldable_chair.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/foldable_chair/model.config
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/foldable_chair/model.sdf
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/foldable_chair/original_model.sdf
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/foldable_chair/thumbnails/1.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/foldable_chair/thumbnails/2.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/foldable_chair/thumbnails/3.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/foldable_chair/thumbnails/4.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/foldable_chair/thumbnails/5.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/shelf/meshes/Box_paper_04_1_Base_Color.png
+[0.062s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/shelf/meshes/shelf_big_movai.dae
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/shelf/model.config
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/shelf/model.sdf
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/shelf/original_modl.sdf
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/shelf/thumbnails/1.png
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/wall/model.config
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/wall/model.sdf
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/model/wall/original_model.sdf
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/launch/office_world.launch.py
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/launch/pinky_upload.launch.py
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/param/diff_controller.yaml
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/ament_index/resource_index/package_run_dependencies/pinky_gazebo
+[0.063s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/ament_index/resource_index/parent_prefix_path/pinky_gazebo
+[0.064s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/environment/ament_prefix_path.sh
+[0.064s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/environment/ament_prefix_path.dsv
+[0.064s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/environment/path.sh
+[0.064s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/environment/path.dsv
+[0.064s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/local_setup.bash
+[0.064s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/local_setup.sh
+[0.064s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/local_setup.zsh
+[0.065s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/local_setup.dsv
+[0.065s] -- Symlinking: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/package.dsv
+[0.071s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/ament_index/resource_index/packages/pinky_gazebo
+[0.075s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/cmake/pinky_gazeboConfig.cmake
+[0.075s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/cmake/pinky_gazeboConfig-version.cmake
+[0.075s] -- Up-to-date symlink: /home/etri/pinky_bt/install/pinky_gazebo/share/pinky_gazebo/package.xml
+[0.081s] Invoked command in '/home/etri/pinky_bt/build/pinky_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/etri/pinky_bt/build/pinky_gazebo

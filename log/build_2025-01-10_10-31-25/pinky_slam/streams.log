@@ -1,0 +1,21 @@
+[0.526s] Invoking command in '/home/etri/pinky_bt/src/pinky_behaviortree/pinky_slam': PYTHONPATH=/home/etri/pinky_bt/build/pinky_slam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/pinky_bt/install/pinky_slam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/pinky_slam build --build-base /home/etri/pinky_bt/build/pinky_slam/build install --record /home/etri/pinky_bt/build/pinky_slam/install.log --single-version-externally-managed install_data
+[0.673s] running egg_info
+[0.673s] writing ../../../build/pinky_slam/pinky_slam.egg-info/PKG-INFO
+[0.674s] writing dependency_links to ../../../build/pinky_slam/pinky_slam.egg-info/dependency_links.txt
+[0.674s] writing entry points to ../../../build/pinky_slam/pinky_slam.egg-info/entry_points.txt
+[0.674s] writing requirements to ../../../build/pinky_slam/pinky_slam.egg-info/requires.txt
+[0.674s] writing top-level names to ../../../build/pinky_slam/pinky_slam.egg-info/top_level.txt
+[0.676s] reading manifest file '../../../build/pinky_slam/pinky_slam.egg-info/SOURCES.txt'
+[0.676s] writing manifest file '../../../build/pinky_slam/pinky_slam.egg-info/SOURCES.txt'
+[0.676s] running build
+[0.676s] running build_py
+[0.676s] running install
+[0.676s] running install_lib
+[0.677s] running install_data
+[0.677s] copying rviz/gmapping.rviz -> /home/etri/pinky_bt/install/pinky_slam/share/pinky_slam/rviz
+[0.677s] running install_egg_info
+[0.678s] removing '/home/etri/pinky_bt/install/pinky_slam/lib/python3.10/site-packages/pinky_slam-0.0.0-py3.10.egg-info' (and everything under it)
+[0.679s] Copying ../../../build/pinky_slam/pinky_slam.egg-info to /home/etri/pinky_bt/install/pinky_slam/lib/python3.10/site-packages/pinky_slam-0.0.0-py3.10.egg-info
+[0.679s] running install_scripts
+[0.696s] writing list of installed files to '/home/etri/pinky_bt/build/pinky_slam/install.log'
+[0.732s] Invoked command in '/home/etri/pinky_bt/src/pinky_behaviortree/pinky_slam' returned '0': PYTHONPATH=/home/etri/pinky_bt/build/pinky_slam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/pinky_bt/install/pinky_slam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/pinky_slam build --build-base /home/etri/pinky_bt/build/pinky_slam/build install --record /home/etri/pinky_bt/build/pinky_slam/install.log --single-version-externally-managed install_data

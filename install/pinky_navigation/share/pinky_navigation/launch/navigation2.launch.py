@@ -1,0 +1,1 @@
+/home/etri/pinky_bt/src/pinky_behaviortree/pinky_navigation/launch/navigation2.launch.py

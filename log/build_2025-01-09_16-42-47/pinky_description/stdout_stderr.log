@@ -1,0 +1,58 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/etri/pinky_bt/build/pinky_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/rviz/urdf_config.rviz
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/urdf/camera.xacro
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/urdf/gazebo_control.xacro
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/urdf/lidar.xacro
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/urdf/robot.urdf.xacro
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/urdf/robot_core.xacro
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/urdf/robot_gazebo.xacro
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/urdf/ros2_control.xacro
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/launch/display.launch.xml
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/launch/upload.launch.xml
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/meshes/collision/base_link.stl
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/meshes/collision/camera.stl
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/meshes/collision/lidar.stl
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/meshes/collision/ul_sensor.stl
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/meshes/collision/wheel.stl
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/meshes/visual/base_link.dae
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/meshes/visual/camera.dae
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/meshes/visual/lidar.dae
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/meshes/visual/ul_sensor.dae
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/meshes/visual/wheel.dae
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/ament_index/resource_index/package_run_dependencies/pinky_description
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/ament_index/resource_index/parent_prefix_path/pinky_description
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/environment/path.sh
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/environment/path.dsv
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/local_setup.bash
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/local_setup.sh
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/local_setup.zsh
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/local_setup.dsv
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/package.dsv
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/ament_index/resource_index/packages/pinky_description
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/cmake/pinky_descriptionConfig.cmake
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/cmake/pinky_descriptionConfig-version.cmake
+-- Symlinking: /home/etri/pinky_bt/install/pinky_description/share/pinky_description/package.xml

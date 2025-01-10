@@ -1,0 +1,1 @@
+/home/etri/pinky_bt/build/pinky_slam/launch/gmapping_launch.py

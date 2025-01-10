@@ -1,0 +1,1 @@
+/home/etri/pinky_bt/build/pinky_gazebo/ament_cmake_core/pinky_gazeboConfig-version.cmake

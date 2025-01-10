@@ -1,0 +1,4 @@
+[0.000000] (-) TimerEvent: {}
+[0.000159] (-) JobUnselected: {'identifier': 'pinky_description'}
+[0.000282] (-) JobUnselected: {'identifier': 'pinky_gazebo'}
+[0.004061] (-) EventReactorShutdown: {}

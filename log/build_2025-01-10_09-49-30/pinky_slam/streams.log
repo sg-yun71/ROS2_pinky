@@ -1,0 +1,38 @@
+[0.484s] Invoking command in '/home/etri/pinky_bt/src/pinky_behaviortree/pinky_slam': PYTHONPATH=/home/etri/pinky_bt/build/pinky_slam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/pinky_bt/install/pinky_slam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/pinky_slam build --build-base /home/etri/pinky_bt/build/pinky_slam/build install --record /home/etri/pinky_bt/build/pinky_slam/install.log --single-version-externally-managed install_data
+[0.646s] running egg_info
+[0.646s] creating ../../../build/pinky_slam/pinky_slam.egg-info
+[0.646s] writing ../../../build/pinky_slam/pinky_slam.egg-info/PKG-INFO
+[0.646s] writing dependency_links to ../../../build/pinky_slam/pinky_slam.egg-info/dependency_links.txt
+[0.646s] writing entry points to ../../../build/pinky_slam/pinky_slam.egg-info/entry_points.txt
+[0.647s] writing requirements to ../../../build/pinky_slam/pinky_slam.egg-info/requires.txt
+[0.647s] writing top-level names to ../../../build/pinky_slam/pinky_slam.egg-info/top_level.txt
+[0.647s] writing manifest file '../../../build/pinky_slam/pinky_slam.egg-info/SOURCES.txt'
+[0.648s] reading manifest file '../../../build/pinky_slam/pinky_slam.egg-info/SOURCES.txt'
+[0.648s] writing manifest file '../../../build/pinky_slam/pinky_slam.egg-info/SOURCES.txt'
+[0.649s] running build
+[0.649s] running build_py
+[0.649s] creating /home/etri/pinky_bt/build/pinky_slam/build
+[0.649s] creating /home/etri/pinky_bt/build/pinky_slam/build/lib
+[0.649s] creating /home/etri/pinky_bt/build/pinky_slam/build/lib/pinky_slam
+[0.649s] copying pinky_slam/__init__.py -> /home/etri/pinky_bt/build/pinky_slam/build/lib/pinky_slam
+[0.649s] running install
+[0.649s] running install_lib
+[0.650s] creating /home/etri/pinky_bt/install/pinky_slam/lib/python3.10/site-packages/pinky_slam
+[0.650s] copying /home/etri/pinky_bt/build/pinky_slam/build/lib/pinky_slam/__init__.py -> /home/etri/pinky_bt/install/pinky_slam/lib/python3.10/site-packages/pinky_slam
+[0.650s] byte-compiling /home/etri/pinky_bt/install/pinky_slam/lib/python3.10/site-packages/pinky_slam/__init__.py to __init__.cpython-310.pyc
+[0.650s] running install_data
+[0.650s] creating /home/etri/pinky_bt/install/pinky_slam/share/ament_index
+[0.650s] creating /home/etri/pinky_bt/install/pinky_slam/share/ament_index/resource_index
+[0.650s] creating /home/etri/pinky_bt/install/pinky_slam/share/ament_index/resource_index/packages
+[0.650s] copying resource/pinky_slam -> /home/etri/pinky_bt/install/pinky_slam/share/ament_index/resource_index/packages
+[0.650s] copying package.xml -> /home/etri/pinky_bt/install/pinky_slam/share/pinky_slam
+[0.650s] creating /home/etri/pinky_bt/install/pinky_slam/share/pinky_slam/launch
+[0.650s] copying launch/gmapping_launch.py -> /home/etri/pinky_bt/install/pinky_slam/share/pinky_slam/launch
+[0.650s] creating /home/etri/pinky_bt/install/pinky_slam/share/pinky_slam/config
+[0.650s] copying config/slam_toolbox_params.yaml -> /home/etri/pinky_bt/install/pinky_slam/share/pinky_slam/config
+[0.650s] creating /home/etri/pinky_bt/install/pinky_slam/share/pinky_slam/rviz
+[0.651s] running install_egg_info
+[0.652s] Copying ../../../build/pinky_slam/pinky_slam.egg-info to /home/etri/pinky_bt/install/pinky_slam/lib/python3.10/site-packages/pinky_slam-0.0.0-py3.10.egg-info
+[0.652s] running install_scripts
+[0.666s] writing list of installed files to '/home/etri/pinky_bt/build/pinky_slam/install.log'
+[0.688s] Invoked command in '/home/etri/pinky_bt/src/pinky_behaviortree/pinky_slam' returned '0': PYTHONPATH=/home/etri/pinky_bt/build/pinky_slam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/pinky_bt/install/pinky_slam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/pinky_slam build --build-base /home/etri/pinky_bt/build/pinky_slam/build install --record /home/etri/pinky_bt/build/pinky_slam/install.log --single-version-externally-managed install_data

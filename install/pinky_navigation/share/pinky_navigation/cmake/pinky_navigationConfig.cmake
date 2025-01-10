@@ -1,0 +1,1 @@
+/home/etri/pinky_bt/build/pinky_navigation/ament_cmake_core/pinky_navigationConfig.cmake

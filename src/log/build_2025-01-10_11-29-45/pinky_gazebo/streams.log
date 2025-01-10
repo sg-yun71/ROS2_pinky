@@ -1,0 +1,21 @@
+[0.015s] Invoking command in '/home/etri/pinky_bt/src/build/pinky_gazebo': /usr/bin/cmake /home/etri/pinky_bt/src/pinky_behaviortree/pinky_gazebo -DCMAKE_INSTALL_PREFIX=/home/etri/pinky_bt/src/install/pinky_gazebo
+[0.213s] -- Configuring incomplete, errors occurred!
+[0.213s] See also "/home/etri/pinky_bt/src/build/pinky_gazebo/CMakeFiles/CMakeOutput.log".
+[0.214s] [31mCMake Error at CMakeLists.txt:9 (find_package):
+[0.214s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[0.214s]   has asked CMake to find a package configuration file provided by
+[0.214s]   "ament_cmake", but CMake did not find one.
+[0.214s] 
+[0.214s]   Could not find a package configuration file provided by "ament_cmake" with
+[0.214s]   any of the following names:
+[0.214s] 
+[0.214s]     ament_cmakeConfig.cmake
+[0.214s]     ament_cmake-config.cmake
+[0.214s] 
+[0.214s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[0.215s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[0.215s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[0.215s]   has been installed.
+[0.215s] 
+[0.215s] [0m
+[0.216s] Invoked command in '/home/etri/pinky_bt/src/build/pinky_gazebo' returned '1': /usr/bin/cmake /home/etri/pinky_bt/src/pinky_behaviortree/pinky_gazebo -DCMAKE_INSTALL_PREFIX=/home/etri/pinky_bt/src/install/pinky_gazebo

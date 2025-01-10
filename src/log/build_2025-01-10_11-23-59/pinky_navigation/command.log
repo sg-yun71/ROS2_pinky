@@ -1,0 +1,1 @@
+Invoking command in '/home/etri/pinky_bt/src/build/pinky_navigation': /usr/bin/cmake /home/etri/pinky_bt/src/pinky_behaviortree/pinky_navigation -DCMAKE_INSTALL_PREFIX=/home/etri/pinky_bt/src/install/pinky_navigation

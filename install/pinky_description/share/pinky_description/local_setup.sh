@@ -1,0 +1,1 @@
+/home/etri/pinky_bt/build/pinky_description/ament_cmake_environment_hooks/local_setup.sh

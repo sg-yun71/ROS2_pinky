@@ -1,0 +1,17 @@
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation//launch/navigation2.launch.py
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation//param/nav2_param.yaml
+/home/etri/pinky_bt/src/install/pinky_navigation/share/ament_index/resource_index/package_run_dependencies/pinky_navigation
+/home/etri/pinky_bt/src/install/pinky_navigation/share/ament_index/resource_index/parent_prefix_path/pinky_navigation
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/environment/ament_prefix_path.sh
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/environment/ament_prefix_path.dsv
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/environment/path.sh
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/environment/path.dsv
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/local_setup.bash
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/local_setup.sh
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/local_setup.zsh
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/local_setup.dsv
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/package.dsv
+/home/etri/pinky_bt/src/install/pinky_navigation/share/ament_index/resource_index/packages/pinky_navigation
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/cmake/pinky_navigationConfig.cmake
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/cmake/pinky_navigationConfig-version.cmake
+/home/etri/pinky_bt/src/install/pinky_navigation/share/pinky_navigation/package.xml
